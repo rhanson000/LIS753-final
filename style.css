@@ -3,7 +3,11 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  background-image: url("https://monterey.org/MPLibrary/Images/BKM/Bookmobile%20logo%20Black.png");
+     /* Background Image */
+     background-image: url("https://monterey.org/MPLibrary/Images/BKM/Bookmobile%20logo%20Black.png");
+    background-size: cover; /* This ensures that the background image covers the entire element */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
 }
 
 header {
