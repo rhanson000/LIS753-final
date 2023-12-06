@@ -4,7 +4,7 @@ body {
     padding: 0;
     box-sizing: border-box;
      /* Background Image */
-     background-image: url("https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+     background-image: url("https://images.unsplash.com/photo-1527176930608-09cb256ab504?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     background-size: cover; /* This ensures that the background image covers the entire element */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Do not repeat the background image */
